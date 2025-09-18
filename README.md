@@ -1,2 +1,2 @@
 # github-mm-is-2025-sk3
-Úkol 001a (2025) - založit repozitář na GitHubu
+Repozitář pro účely cvičení předmětu IS (2025-skupina3)
